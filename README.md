@@ -10,6 +10,7 @@
 
 - HTML
 - CSS
+- Github review
 
 ## Getting Started
 
